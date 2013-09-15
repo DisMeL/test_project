@@ -1,6 +1,6 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+*.iml
+*.ldb
+.idea/
+target/
+out/
+jboss-as-web-7.0.2.Final/
